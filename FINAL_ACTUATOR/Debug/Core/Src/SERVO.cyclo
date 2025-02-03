@@ -1,0 +1,5 @@
+../Core/Src/SERVO.c:10:6:Start_Servo	1
+../Core/Src/SERVO.c:17:10:AngleToPWM	1
+../Core/Src/SERVO.c:23:6:To_Default	1
+../Core/Src/SERVO.c:29:6:Turn_Left	1
+../Core/Src/SERVO.c:34:6:Turn_Right	1
